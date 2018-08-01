@@ -1,6 +1,4 @@
-# AddressBook
-获取通讯录，添加信息到通讯录。
-来源：[`zhangmiao.cc`](zhangmiao.cc)
+#### My Blog：[`zhangmiao.cc`](zhangmiao.cc)
 
 ```java
 package com.example.zm.addressbook;
