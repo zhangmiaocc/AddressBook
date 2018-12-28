@@ -1,4 +1,4 @@
-#### My Blog：[zhangmiao.cc](https://zhangmiao.cc/2018/07/19/AddressBook/)
+#### My Blog：[zhangmiao.cc](https://zhangmiao.cc/posts/e1546149.html)
 
 ```java
 package com.example.zm.addressbook;
